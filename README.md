@@ -1,2 +1,1 @@
-# hello-hi
-welcome
+Project name : Holiday List finder for pre-set country names( must be in the iso-3166 format as specified in the documentation. To know more , read here https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) Purpose: To find the list of holidays in current year in a specific country. Uses API from the website https://www.calendarindex.com/ Persons involved : vishnu kumar(GitHub username : vishnukumarra)
